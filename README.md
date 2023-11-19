@@ -1,6 +1,10 @@
 Cyon, Alexander: Husband, father, HoMM3 & Chess player, Swift & Rust lover, cryptography enthusiast and OSS author.
 
-Tabs ofc, size 4, I'm not insane.
+# My daugther Stella
+![alex_o_stella](https://github.com/Sajjon/Sajjon/assets/864410/61c1c1ff-664e-4921-8dff-c1e818d50f40)
+
+I'm teaching my daugher Stella born 2020 to code. I hope she would like to develop a game togheter with me some day.
+
 ---
 
 My general GitHub stats:
