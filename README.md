@@ -1,16 +1,14 @@
-### Hi there 👋
+Cyon, Alexander: Husband, father, HoMM3 & Chess player, Swift & Rust lover, cryptography enthusiast and OSS author.
 
-<!--
-**Sajjon/Sajjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tabs ofc, size 4, I'm not insane.
+---
 
-Here are some ideas to get you started:
+My general GitHub stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Sajjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sajjon&show_icons=true&theme=cobalt)
+
+Programming Language Statistics:
+
+![Sajjon's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjon&layout=compact&langs_count=6&theme=cobalt)
+
+---
