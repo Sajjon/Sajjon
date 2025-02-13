@@ -1,0 +1,79 @@
+[
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/Barbanyaga/RobobindingValidation/issues/1\">#1</a>: AbstractPresentationModel not found\n- <a href=\"https://github.com/nicklockwood/iCarousel/issues/600\">#600</a>: Impossible to only allow one direction scrolling, e.g. only right scrolling.\n- <a href=\"https://github.com/jonnyzzz/TeamCity.GitHub/issues/111\">#111</a>: Filter out PRs having a certain label/labels e.g. `On Hold`\n- <a href=\"https://github.com/hyugit/EllipticCurve/issues/9\">#9</a>: Litterature reference - secp256k1 InverseCharacteristic (= Point.InverseOrder) \n- <a href=\"https://github.com/yenom/BitcoinKit/issues/193\">#193</a>: Fails to install using cocoapods\n\n And many more...",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/Sajjon/RxFlow/pull/1\">#1</a>: develop",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/LedgerHQ/app-zilliqa/issues/11\">👍</a>\n* <a href=\"https://github.com/LedgerHQ/app-zilliqa/issues/11\">🎉</a>\n* <a href=\"https://github.com/LedgerHQ/app-zilliqa/issues/11\">🚀</a>\n* <a href=\"https://github.com/LedgerHQ/app-zilliqa/issues/11\">👀</a>\n* <a href=\"https://github.com/LedgerHQ/app-zilliqa/issues/11\">❤️</a>\n* <a href=\"https://github.com/apple/swift-crypto/issues/8\">👍</a>\n* <a href=\"https://github.com/apple/swift-crypto/issues/8\">❤️</a>\n* <a href=\"https://github.com/apple/swift-crypto/issues/8#issuecomment-991583714\">👍</a>\n* <a href=\"https://github.com/apple/swift-crypto/issues/8#issuecomment-991583714\">❤️</a>\n* <a href=\"https://github.com/apple/swift-crypto/issues/8#issuecomment-991583714\">🚀</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 20 my own repositories.",
+    "body": "- <a href=\"https://github.com/Sajjon/SwiftIntro\">Sajjon/SwiftIntro</a>\n- <a href=\"https://github.com/Sajjon/Zeus\">Sajjon/Zeus</a>\n- <a href=\"https://github.com/Sajjon/setup\">Sajjon/setup</a>\n- <a href=\"https://github.com/Sajjon/ViewComposer\">Sajjon/ViewComposer</a>\n- <a href=\"https://github.com/Sajjon/CryptoCoinFramework\">Sajjon/CryptoCoinFramework</a>\n- <a href=\"https://github.com/Sajjon/EllipticCurveKit\">Sajjon/EllipticCurveKit</a>\n- <a href=\"https://github.com/Sajjon/SvenskaBIP39\">Sajjon/SvenskaBIP39</a>\n- <a href=\"https://github.com/Sajjon/Makt\">Sajjon/Makt</a>\n- <a href=\"https://github.com/Sajjon/Tritium\">Sajjon/Tritium</a>\n- <a href=\"https://github.com/Sajjon/K1\">Sajjon/K1</a>\n- <a href=\"https://github.com/Sajjon/Fruta\">Sajjon/Fruta</a>\n- <a href=\"https://github.com/Sajjon/Bells\">Sajjon/Bells</a>\n- <a href=\"https://github.com/Sajjon/EquationKit\">Sajjon/EquationKit</a>\n- <a href=\"https://github.com/Sajjon/RadBal\">Sajjon/RadBal</a>\n- <a href=\"https://github.com/Sajjon/identified_vec\">Sajjon/identified_vec</a>\n- <a href=\"https://github.com/Sajjon/RadixWalletKit\">Sajjon/RadixWalletKit</a>\n- <a href=\"https://github.com/Sajjon/rad\">Sajjon/rad</a>\n- <a href=\"https://github.com/Sajjon/swift-string-processing-benchmarks\">Sajjon/swift-string-processing-benchmarks</a>\n- <a href=\"https://github.com/Sajjon/lemon-merringue-pie\">Sajjon/lemon-merringue-pie</a>\n- <a href=\"https://github.com/Sajjon/one-does-not-simply-sign\">Sajjon/one-does-not-simply-sign</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/OpenZesame/Zesame/issues/42\">#42</a>\n- <a href=\"https://github.com/radixdlt/radixdlt-swift-archive/issues/42\">#42</a>\n- <a href=\"https://github.com/radixdlt/radixdlt-javascript/issues/42\">#42</a>\n- <a href=\"https://github.com/radixdlt/radixdlt-core/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/Sajjon/identified_vec/pull/13\">#13</a>: Try update with\n- <a href=\"https://github.com/Sajjon/identified_vec/pull/14\">#14</a>: Fix bug, dont delete element of try_update_with fails.\n- <a href=\"https://github.com/Sajjon/RadixWalletKit/pull/23\">#23</a>: SLIP10 & CAP26 test vectors impl\n- <a href=\"https://github.com/Sajjon/RadixWalletKit/pull/35\">#35</a>: Graduate (will archive repo after this has merged)\n- <a href=\"https://github.com/Sajjon/RadixWalletKit/pull/30\">#30</a>: Authorized Dapps",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "thumbs-up-10",
+    "tier": 1,
+    "desc": "I got more than 10 thumbs up.",
+    "body": "* <a href=\"https://github.com/apple/swift-crypto/issues/8\">37 👍</a>\n* <a href=\"https://github.com/apple/swift-crypto/issues/8#issuecomment-991583714\">19 👍</a>\n* <a href=\"https://github.com/microsoft/kiota/issues/4436\">13 👍</a>\n* <a href=\"https://github.com/microsoft/TypeScript/issues/17588#issuecomment-718011414\">12 👍</a>\n* <a href=\"https://github.com/swiftlang/swift-book/pull/14\">11 👍</a>",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
+  }
+]
