@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/Sajjon/RadixWalletKit/pull/23">#23</a>: SLIP10 & CAP26 test vectors impl
 - <a href="https://github.com/Sajjon/RadixWalletKit/pull/35">#35</a>: Graduate (will archive repo after this has merged)
 - <a href="https://github.com/Sajjon/RadixWalletKit/pull/30">#30</a>: Authorized Dapps
 
