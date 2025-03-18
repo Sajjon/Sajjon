@@ -31,7 +31,7 @@
     "id": "pr-collaboration-5",
     "tier": 1,
     "desc": "I have participated in pull requests with 5 or more people",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/Sajjon/RxFlow/pull/1\">#1</a>: develop",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/radixdlt/radixdlt-core/pull/1\">#1</a>: WIP sketching timeout functionality",
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
@@ -51,8 +51,8 @@
   {
     "id": "self-star",
     "tier": 0,
-    "desc": "I've starred 20 my own repositories.",
-    "body": "- <a href=\"https://github.com/Sajjon/SwiftIntro\">Sajjon/SwiftIntro</a>\n- <a href=\"https://github.com/Sajjon/Zeus\">Sajjon/Zeus</a>\n- <a href=\"https://github.com/Sajjon/setup\">Sajjon/setup</a>\n- <a href=\"https://github.com/Sajjon/ViewComposer\">Sajjon/ViewComposer</a>\n- <a href=\"https://github.com/Sajjon/CryptoCoinFramework\">Sajjon/CryptoCoinFramework</a>\n- <a href=\"https://github.com/Sajjon/EllipticCurveKit\">Sajjon/EllipticCurveKit</a>\n- <a href=\"https://github.com/Sajjon/SvenskaBIP39\">Sajjon/SvenskaBIP39</a>\n- <a href=\"https://github.com/Sajjon/Makt\">Sajjon/Makt</a>\n- <a href=\"https://github.com/Sajjon/Tritium\">Sajjon/Tritium</a>\n- <a href=\"https://github.com/Sajjon/K1\">Sajjon/K1</a>\n- <a href=\"https://github.com/Sajjon/Fruta\">Sajjon/Fruta</a>\n- <a href=\"https://github.com/Sajjon/Bells\">Sajjon/Bells</a>\n- <a href=\"https://github.com/Sajjon/EquationKit\">Sajjon/EquationKit</a>\n- <a href=\"https://github.com/Sajjon/RadBal\">Sajjon/RadBal</a>\n- <a href=\"https://github.com/Sajjon/identified_vec\">Sajjon/identified_vec</a>\n- <a href=\"https://github.com/Sajjon/RadixWalletKit\">Sajjon/RadixWalletKit</a>\n- <a href=\"https://github.com/Sajjon/rad\">Sajjon/rad</a>\n- <a href=\"https://github.com/Sajjon/swift-string-processing-benchmarks\">Sajjon/swift-string-processing-benchmarks</a>\n- <a href=\"https://github.com/Sajjon/lemon-merringue-pie\">Sajjon/lemon-merringue-pie</a>\n- <a href=\"https://github.com/Sajjon/one-does-not-simply-sign\">Sajjon/one-does-not-simply-sign</a>",
+    "desc": "I've starred 15 my own repositories.",
+    "body": "- <a href=\"https://github.com/Sajjon/SwiftIntro\">Sajjon/SwiftIntro</a>\n- <a href=\"https://github.com/Sajjon/setup\">Sajjon/setup</a>\n- <a href=\"https://github.com/Sajjon/ViewComposer\">Sajjon/ViewComposer</a>\n- <a href=\"https://github.com/Sajjon/EllipticCurveKit\">Sajjon/EllipticCurveKit</a>\n- <a href=\"https://github.com/Sajjon/SvenskaBIP39\">Sajjon/SvenskaBIP39</a>\n- <a href=\"https://github.com/Sajjon/Makt\">Sajjon/Makt</a>\n- <a href=\"https://github.com/Sajjon/Tritium\">Sajjon/Tritium</a>\n- <a href=\"https://github.com/Sajjon/K1\">Sajjon/K1</a>\n- <a href=\"https://github.com/Sajjon/Bells\">Sajjon/Bells</a>\n- <a href=\"https://github.com/Sajjon/EquationKit\">Sajjon/EquationKit</a>\n- <a href=\"https://github.com/Sajjon/RadBal\">Sajjon/RadBal</a>\n- <a href=\"https://github.com/Sajjon/identified_vec\">Sajjon/identified_vec</a>\n- <a href=\"https://github.com/Sajjon/RadixWalletKit\">Sajjon/RadixWalletKit</a>\n- <a href=\"https://github.com/Sajjon/rad\">Sajjon/rad</a>\n- <a href=\"https://github.com/Sajjon/one-does-not-simply-sign\">Sajjon/one-does-not-simply-sign</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
@@ -75,5 +75,124 @@
     "desc": "I got more than 10 thumbs up.",
     "body": "* <a href=\"https://github.com/apple/swift-crypto/issues/8\">37 👍</a>\n* <a href=\"https://github.com/apple/swift-crypto/issues/8#issuecomment-991583714\">19 👍</a>\n* <a href=\"https://github.com/microsoft/kiota/issues/4436\">13 👍</a>\n* <a href=\"https://github.com/microsoft/TypeScript/issues/17588#issuecomment-718011414\">12 👍</a>\n* <a href=\"https://github.com/swiftlang/swift-book/pull/14\">11 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
+  },
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/Sajjon/HelloAndroid/commit/a0411dd57a781a703110ff99998e5a1c655b5694\"><strong>a</strong>0411dd57a781a703110ff99998e5a1c655b5694</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/Sajjon/TwitchClient/commit/ab3b51509dc7b5865a06afba05bd0ed12f535587\"><strong>ab</strong>3b51509dc7b5865a06afba05bd0ed12f535587</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/one-does-not-simply-sign/commit/f8c2a5d01de0f7df6370cd876d6677b02f83bb7c\">f8c2a5d</a>: chore CI & Cov: Tweak tarpaulin settings; Use HTML for local use, based on tarpaulin.toml but for CI use xml as output format.",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/Makt/commit/c1ef2a110e35e0972412042fb25a2382abcde3e4\">c1ef2a1</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 3 times.",
+    "body": "- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/f0deadf058e467f3a21a3dc3aa0cfdf060eac035\">f0<strong>dead</strong>f058e467f3a21a3dc3aa0cfdf060eac035</a>\n- <a href=\"https://github.com/Sajjon/sargon/commit/ed517f8a4f7dead2b993d21fa65ece1b268c9138\">ed517f8a4f7<strong>dead</strong>2b993d21fa65ece1b268c9138</a>\n- <a href=\"https://github.com/Sajjon/RadixWalletKit/commit/ed517f8a4f7dead2b993d21fa65ece1b268c9138\">ed517f8a4f7<strong>dead</strong>2b993d21fa65ece1b268c9138</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/rad/commit/97fafd1c666a6fb8104f101e8ae5f3e80ccadfdf\">97fafd1</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/8da13ccb41e0107a8eb9ce79fded73521161a5f8\">8da13cc</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/b1748b7a28e1e33c7c11bf43d6bfca367459f351\">b1748b7</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/9ca9c11d637179824bf8bcd0dd947359f64db67e\">9ca9c11</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/cff3ebaf444b8ac7a9fb82061973b306520da448\">cff3eba</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/8c413b030d17b9d14837f943765daa120f08faac\">8c413b0</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/17e64561d4e7341ac319cca004e14a74f0ad16db\">17e6456</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/5052a32ff681f4b7de8cfe2ba1191667340cc3b5\">5052a32</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/27feb30043ac823dc3b4880420f3164b57c1bd6e\">27feb30</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/ad8cd0773f21383c14c15389071ce250eeb748e6\">ad8cd07</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/2a035d8dc8985fad5922c0ffb2b5c252581a778d\">2a035d8</a>\n- <a href=\"https://github.com/Sajjon/EllipticCurveKit/commit/b2b22237e67acd5533d68e0e88e853e685713e6f\">b2b2223</a>\n- <a href=\"https://github.com/Sajjon/ViewComposer/commit/63b1a0328c7cd2305057611668df2c8a00c79ebd\">63b1a03</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"tests\".",
+    "body": "My favorite commit message words are:\n\n1. tests (used 504 times)\n2. adding (used 442 times)\n3. add (used 368 times)\n4. merge (used 284 times)\n5. test (used 284 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/app-radix/commit/e46a337c13795b7b5aefadcbee8d21ab9ed6666a\">e46a337</a>: Fixed incorrect order of operands in uint256 subtraction => unit tests passes!\n- <a href=\"https://github.com/Sajjon/app-radix/commit/745b31b8a4f51b8525dff351b8f57a96057132ce\">745b31b</a>: Fix compilation errors, but tests fails.\n- <a href=\"https://github.com/Sajjon/app-radix/commit/cc465af05e9c1ea8c5426ee1acfda1244d7381c7\">cc465af</a>: fix include",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/fcfc2c0e6ef0c93b31c5c3629ec694b8a9dcc33d\">fcfc2c0</a>: Fixed JSON serialization and deserialization of MessageParticle\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/315c4239c3b75d82ca017f5bcfb7fde26b486799\">315c423</a>: fixed typo",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/EllipticCurveKit/commit/72621e19ca918ae314cc0fe2614c890412f85303\">72621e1</a>\n- <a href=\"https://github.com/Sajjon/Makt/commit/51b7a9e9e3cff47ec66eb01bb836e179062a4589\">51b7a9e</a>\n- <a href=\"https://github.com/Sajjon/Makt/commit/23acfdc687627e949a066d54a8f6444c74062950\">23acfdc</a>\n- <a href=\"https://github.com/Sajjon/Makt/commit/91555268f710e7d67d863d72154448e504d10829\">9155526</a>\n- <a href=\"https://github.com/Sajjon/Makt/commit/5d62edf99d03b72b1f7acde53290e84f5aab4695\">5d62edf</a>\n- <a href=\"https://github.com/Sajjon/Makt/commit/20d363ff9d1a88192f71efddf291674ebaffbd65\">20d363f</a>\n- <a href=\"https://github.com/Sajjon/Pipeline/commit/aeca2d582ca4c68c6bfcfb32a19e628c9daff302\">aeca2d5</a>\n- <a href=\"https://github.com/Sajjon/Pipeline/commit/6866241311dcc9c58301e450fd177698544c856e\">6866241</a>\n- <a href=\"https://github.com/Sajjon/Pipeline/commit/83d6217f72a0e04b1d6ec189003fdf74f3d54bed\">83d6217</a>\n- <a href=\"https://github.com/Sajjon/Pipeline/commit/a85e2cf5d8d4d8fd0859d34f8b368b0035ae904c\">a85e2cf</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/8bec31b2e128f7c6e74395153b88085017d5f86c\">8bec31b</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/K1/commit/284babecbf6470d16591a16a30323696547284cb\">284babe</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/Sajjon/ViewComposer\">Sajjon/ViewComposer: ★29</a>\n* <a href=\"https://github.com/Sajjon/K1\">Sajjon/K1: ★22</a>\n* <a href=\"https://github.com/Sajjon/Makt\">Sajjon/Makt: ★13</a>\n* <a href=\"https://github.com/Sajjon/Bells\">Sajjon/Bells: ★9</a>\n* <a href=\"https://github.com/Sajjon/rad\">Sajjon/rad: ★7</a>\n* <a href=\"https://github.com/Sajjon/Tritium\">Sajjon/Tritium: ★5</a>\n* <a href=\"https://github.com/Sajjon/identified_vec\">Sajjon/identified_vec: ★5</a>\n* <a href=\"https://github.com/Sajjon/VanligaOrd\">Sajjon/VanligaOrd: ★4</a>\n* <a href=\"https://github.com/Sajjon/TicTacToe\">Sajjon/TicTacToe: ★4</a>\n* <a href=\"https://github.com/Sajjon/BytePattern\">Sajjon/BytePattern: ★4</a>\n* <a href=\"https://github.com/Sajjon/RadixWalletKit\">Sajjon/RadixWalletKit: ★4</a>\n* <a href=\"https://github.com/siy/CafeBabe\">siy/CafeBabe: ★3</a>\n* <a href=\"https://github.com/Sajjon/Makros\">Sajjon/Makros: ★3</a>\n* <a href=\"https://github.com/Sajjon/CachingService\">Sajjon/CachingService: ★2</a>\n* <a href=\"https://github.com/oskarh/SwingPlanner-android\">oskarh/SwingPlanner-android: ★2</a>\n* <a href=\"https://github.com/Sajjon/RadBal\">Sajjon/RadBal: ★2</a>\n* <a href=\"https://github.com/Sajjon/MultiSpeedSlider\">Sajjon/MultiSpeedSlider: ★1</a>\n* <a href=\"https://github.com/Sajjon/setup\">Sajjon/setup: ★1</a>\n* <a href=\"https://github.com/Sajjon/SvenskaBIP39\">Sajjon/SvenskaBIP39: ★1</a>\n* <a href=\"https://github.com/Sajjon/Behandla\">Sajjon/Behandla: ★1</a>\n* <a href=\"https://github.com/Vinnstah/Webshop\">Vinnstah/Webshop: ★1</a>\n* <a href=\"https://github.com/CyonAlexRDX/uniffi-rs\">CyonAlexRDX/uniffi-rs: ★1</a>\n* <a href=\"https://github.com/Sajjon/sargon\">Sajjon/sargon: ★1</a>\n* <a href=\"https://github.com/Sajjon/one-does-not-simply-sign\">Sajjon/one-does-not-simply-sign: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/one-does-not-simply-sign/commit/30995e8c3fdc29e0bc8663ab13693402f37d43ea\">30995e8</a>\n- <a href=\"https://github.com/Sajjon/Bells/commit/bcb9324fff99265367fe7c9887b03a5c3f32226a\">bcb9324</a>\n- <a href=\"https://github.com/Sajjon/K1/commit/9166a33477a89e12986cc7d86892d2729559101d\">9166a33</a>\n- <a href=\"https://github.com/Sajjon/K1/commit/a57d0903038bf46d95964c15ee91d4edfc6364f5\">a57d090</a>\n- <a href=\"https://github.com/Sajjon/Makt/commit/a54655c9f3d95d1a07c2d0c56303a4e748f326a2\">a54655c</a>\n- <a href=\"https://github.com/Sajjon/Makt/commit/0203510654702b97ae9f22ba1e3ce4e7cdfbd8dd\">0203510</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/rad/commit/8a795708f1b741c36c2df66870512bc2975f2bbc\">8a79570</a>\n- <a href=\"https://github.com/Sajjon/one-does-not-simply-sign/commit/e4c05007fbc2048d3564c43fcf849af278f896f3\">e4c0500</a>\n- <a href=\"https://github.com/Sajjon/sargon/commit/1f01750fae7a84eb04db0d426a55440f7f1a5249\">1f01750</a>\n- <a href=\"https://github.com/Sajjon/sargon/commit/68271a51eef76e2766188981724f784c307c01eb\">68271a5</a>\n- <a href=\"https://github.com/Sajjon/sargon/commit/1e07ae6c5b26a1d67ac91d8f631623b7b116bfef\">1e07ae6</a>\n- <a href=\"https://github.com/Sajjon/RadixWalletKit/commit/1e07ae6c5b26a1d67ac91d8f631623b7b116bfef\">1e07ae6</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/f2f59c0a329e68044a54b33ac3688f3d4a6be34d\">f2f59c0</a>\n- <a href=\"https://github.com/Sajjon/Playgrounds/commit/fb33d994044b50175cc27555694db833ce3cf78f\">fb33d99</a>\n- <a href=\"https://github.com/Sajjon/Playgrounds/commit/5d1921691e98187ac1a882ddc0cd61c0a40de59d\">5d19216</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   }
 ]

@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/Sajjon/RxFlow/pull/1">#1</a>: develop
+- <a href="https://github.com/radixdlt/radixdlt-core/pull/1">#1</a>: WIP sketching timeout functionality
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

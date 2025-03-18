@@ -1,26 +1,21 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 20 my own repositories." title="I&apos;ve starred 20 my own repositories." width="128">
-<strong>I&apos;ve starred 20 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 15 my own repositories." title="I&apos;ve starred 15 my own repositories." width="128">
+<strong>I&apos;ve starred 15 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/Sajjon/SwiftIntro">Sajjon/SwiftIntro</a>
-- <a href="https://github.com/Sajjon/Zeus">Sajjon/Zeus</a>
 - <a href="https://github.com/Sajjon/setup">Sajjon/setup</a>
 - <a href="https://github.com/Sajjon/ViewComposer">Sajjon/ViewComposer</a>
-- <a href="https://github.com/Sajjon/CryptoCoinFramework">Sajjon/CryptoCoinFramework</a>
 - <a href="https://github.com/Sajjon/EllipticCurveKit">Sajjon/EllipticCurveKit</a>
 - <a href="https://github.com/Sajjon/SvenskaBIP39">Sajjon/SvenskaBIP39</a>
 - <a href="https://github.com/Sajjon/Makt">Sajjon/Makt</a>
 - <a href="https://github.com/Sajjon/Tritium">Sajjon/Tritium</a>
 - <a href="https://github.com/Sajjon/K1">Sajjon/K1</a>
-- <a href="https://github.com/Sajjon/Fruta">Sajjon/Fruta</a>
 - <a href="https://github.com/Sajjon/Bells">Sajjon/Bells</a>
 - <a href="https://github.com/Sajjon/EquationKit">Sajjon/EquationKit</a>
 - <a href="https://github.com/Sajjon/RadBal">Sajjon/RadBal</a>
 - <a href="https://github.com/Sajjon/identified_vec">Sajjon/identified_vec</a>
 - <a href="https://github.com/Sajjon/RadixWalletKit">Sajjon/RadixWalletKit</a>
 - <a href="https://github.com/Sajjon/rad">Sajjon/rad</a>
-- <a href="https://github.com/Sajjon/swift-string-processing-benchmarks">Sajjon/swift-string-processing-benchmarks</a>
-- <a href="https://github.com/Sajjon/lemon-merringue-pie">Sajjon/lemon-merringue-pie</a>
 - <a href="https://github.com/Sajjon/one-does-not-simply-sign">Sajjon/one-does-not-simply-sign</a>
 
 
