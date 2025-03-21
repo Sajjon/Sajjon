@@ -5,7 +5,6 @@
 Pull requests:
 
 - <a href="https://github.com/Sajjon/RadixWalletKit/pull/35">#35</a>: Graduate (will archive repo after this has merged)
-- <a href="https://github.com/Sajjon/RadixWalletKit/pull/30">#30</a>: Authorized Dapps
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
