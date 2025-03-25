@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/Sajjon/ViewComposer">Sajjon/ViewComposer: ★29</a>
-* <a href="https://github.com/Sajjon/K1">Sajjon/K1: ★22</a>
+* <a href="https://github.com/Sajjon/K1">Sajjon/K1: ★23</a>
 * <a href="https://github.com/Sajjon/Makt">Sajjon/Makt: ★13</a>
 * <a href="https://github.com/Sajjon/Bells">Sajjon/Bells: ★9</a>
 * <a href="https://github.com/Sajjon/rad">Sajjon/rad: ★7</a>
