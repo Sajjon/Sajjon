@@ -63,13 +63,6 @@
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
-    "id": "this-is-fine",
-    "tier": 0,
-    "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/Sajjon/RadixWalletKit/pull/35\">#35</a>: Graduate (will archive repo after this has merged)",
-    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
-  },
-  {
     "id": "thumbs-up-10",
     "tier": 1,
     "desc": "I got more than 10 thumbs up.",
