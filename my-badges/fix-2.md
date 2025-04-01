@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Sajjon/radixdlt-swift-archive/commit/fcfc2c0e6ef0c93b31c5c3629ec694b8a9dcc33d">fcfc2c0</a>: Fixed JSON serialization and deserialization of MessageParticle
-- <a href="https://github.com/Sajjon/radixdlt-swift-archive/commit/315c4239c3b75d82ca017f5bcfb7fde26b486799">315c423</a>: fixed typo
+- <a href="https://github.com/Sajjon/gastimator/commit/beffe77ef72d69f00423e728e3959f7527b4c93b">beffe77</a>: Fix ci, read GH secret as ENV
+- <a href="https://github.com/Sajjon/gastimator/commit/c5c109b8ff2a0b0e502ad040bc656ea9f15ca329">c5c109b</a>: fix broken doc items
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

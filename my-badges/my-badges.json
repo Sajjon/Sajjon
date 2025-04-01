@@ -122,7 +122,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"tests\".",
-    "body": "My favorite commit message words are:\n\n1. tests (used 504 times)\n2. adding (used 442 times)\n3. add (used 368 times)\n4. merge (used 284 times)\n5. test (used 284 times)",
+    "body": "My favorite commit message words are:\n\n1. tests (used 508 times)\n2. adding (used 442 times)\n3. add (used 374 times)\n4. merge (used 286 times)\n5. test (used 284 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -136,7 +136,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/fcfc2c0e6ef0c93b31c5c3629ec694b8a9dcc33d\">fcfc2c0</a>: Fixed JSON serialization and deserialization of MessageParticle\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/315c4239c3b75d82ca017f5bcfb7fde26b486799\">315c423</a>: fixed typo",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/gastimator/commit/beffe77ef72d69f00423e728e3959f7527b4c93b\">beffe77</a>: Fix ci, read GH secret as ENV\n- <a href=\"https://github.com/Sajjon/gastimator/commit/c5c109b8ff2a0b0e502ad040bc656ea9f15ca329\">c5c109b</a>: fix broken doc items",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
