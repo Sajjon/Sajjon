@@ -87,7 +87,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/one-does-not-simply-sign/commit/f8c2a5d01de0f7df6370cd876d6677b02f83bb7c\">f8c2a5d</a>: chore CI & Cov: Tweak tarpaulin settings; Use HTML for local use, based on tarpaulin.toml but for CI use xml as output format.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/mopro/commit/793626f32ed34dcde382f5f304c301563126bc9d\">793626f</a>: chore: Fix typos (#390)",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -187,5 +187,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/Playgrounds/commit/fb33d994044b50175cc27555694db833ce3cf78f\">fb33d99</a>\n- <a href=\"https://github.com/Sajjon/Playgrounds/commit/5d1921691e98187ac1a882ddc0cd61c0a40de59d\">5d19216</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/mopro/commit/793626f32ed34dcde382f5f304c301563126bc9d\">793626f</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   }
 ]

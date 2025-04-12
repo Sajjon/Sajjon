@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Sajjon/one-does-not-simply-sign/commit/f8c2a5d01de0f7df6370cd876d6677b02f83bb7c">f8c2a5d</a>: chore CI & Cov: Tweak tarpaulin settings; Use HTML for local use, based on tarpaulin.toml but for CI use xml as output format.
+- <a href="https://github.com/Sajjon/mopro/commit/793626f32ed34dcde382f5f304c301563126bc9d">793626f</a>: chore: Fix typos (#390)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
