@@ -10,10 +10,10 @@ Repos:
 * <a href="https://github.com/Sajjon/Bells">Sajjon/Bells: ★9</a>
 * <a href="https://github.com/Sajjon/rad">Sajjon/rad: ★7</a>
 * <a href="https://github.com/Sajjon/Tritium">Sajjon/Tritium: ★5</a>
+* <a href="https://github.com/Sajjon/BytePattern">Sajjon/BytePattern: ★5</a>
 * <a href="https://github.com/Sajjon/identified_vec">Sajjon/identified_vec: ★5</a>
 * <a href="https://github.com/Sajjon/VanligaOrd">Sajjon/VanligaOrd: ★4</a>
 * <a href="https://github.com/Sajjon/TicTacToe">Sajjon/TicTacToe: ★4</a>
-* <a href="https://github.com/Sajjon/BytePattern">Sajjon/BytePattern: ★4</a>
 * <a href="https://github.com/Sajjon/RadixWalletKit">Sajjon/RadixWalletKit: ★4</a>
 * <a href="https://github.com/siy/CafeBabe">siy/CafeBabe: ★3</a>
 * <a href="https://github.com/Sajjon/Makros">Sajjon/Makros: ★3</a>
