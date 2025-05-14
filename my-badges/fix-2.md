@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Sajjon/gastimator/commit/beffe77ef72d69f00423e728e3959f7527b4c93b">beffe77</a>: Fix ci, read GH secret as ENV
-- <a href="https://github.com/Sajjon/gastimator/commit/c5c109b8ff2a0b0e502ad040bc656ea9f15ca329">c5c109b</a>: fix broken doc items
+- <a href="https://github.com/Sajjon/bybit-rs/commit/8f8032d2e9faedc647a51d2e3b67a8a0abf4335d">8f8032d</a>: Fix get wallet balance (auth request) which failed with 'error sign' because accountType value was in quoutes.
+- <a href="https://github.com/Sajjon/bybit-rs/commit/0f28b987d7337113f2ed905211fba1f0149d6f50">0f28b98</a>: Fix get_account_info which failed due to missing serde fields
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
