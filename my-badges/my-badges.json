@@ -122,7 +122,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"tests\".",
-    "body": "My favorite commit message words are:\n\n1. tests (used 435 times)\n2. add (used 368 times)\n3. adding (used 309 times)\n4. merge (used 273 times)\n5. wip (used 271 times)",
+    "body": "My favorite commit message words are:\n\n1. tests (used 435 times)\n2. add (used 370 times)\n3. adding (used 309 times)\n4. merge (used 274 times)\n5. wip (used 273 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -136,7 +136,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/bybit-rs/commit/8f8032d2e9faedc647a51d2e3b67a8a0abf4335d\">8f8032d</a>: Fix get wallet balance (auth request) which failed with 'error sign' because accountType value was in quoutes.\n- <a href=\"https://github.com/Sajjon/bybit-rs/commit/0f28b987d7337113f2ed905211fba1f0149d6f50\">0f28b98</a>: Fix get_account_info which failed due to missing serde fields",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/rs_bybit/commit/c3b55fdaa4284e6aa6e70ac8a212fd4181a69f6e\">c3b55fd</a>: fix\n- <a href=\"https://github.com/Sajjon/rs_bybit/commit/57db64c4e15ac6586c1a11a1b14b229d172eee97\">57db64c</a>: fix",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -178,7 +178,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/rad/commit/8a795708f1b741c36c2df66870512bc2975f2bbc\">8a79570</a>\n- <a href=\"https://github.com/Sajjon/one-does-not-simply-sign/commit/e4c05007fbc2048d3564c43fcf849af278f896f3\">e4c0500</a>\n- <a href=\"https://github.com/Sajjon/sargon/commit/1f01750fae7a84eb04db0d426a55440f7f1a5249\">1f01750</a>\n- <a href=\"https://github.com/Sajjon/sargon/commit/68271a51eef76e2766188981724f784c307c01eb\">68271a5</a>\n- <a href=\"https://github.com/Sajjon/sargon/commit/1e07ae6c5b26a1d67ac91d8f631623b7b116bfef\">1e07ae6</a>\n- <a href=\"https://github.com/Sajjon/RadixWalletKit/commit/1e07ae6c5b26a1d67ac91d8f631623b7b116bfef\">1e07ae6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/rs_bybit/commit/0637a1609e42320b3e2ec9f5fb73e4e90ace0413\">0637a16</a>\n- <a href=\"https://github.com/Sajjon/rs_bybit/commit/cd090a56c8e8016cc9e0269fe25ce8b3d7103e51\">cd090a5</a>\n- <a href=\"https://github.com/Sajjon/rad/commit/8a795708f1b741c36c2df66870512bc2975f2bbc\">8a79570</a>\n- <a href=\"https://github.com/Sajjon/one-does-not-simply-sign/commit/e4c05007fbc2048d3564c43fcf849af278f896f3\">e4c0500</a>\n- <a href=\"https://github.com/Sajjon/sargon/commit/1f01750fae7a84eb04db0d426a55440f7f1a5249\">1f01750</a>\n- <a href=\"https://github.com/Sajjon/sargon/commit/68271a51eef76e2766188981724f784c307c01eb\">68271a5</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {

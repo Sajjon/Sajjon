@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Sajjon/bybit-rs/commit/8f8032d2e9faedc647a51d2e3b67a8a0abf4335d">8f8032d</a>: Fix get wallet balance (auth request) which failed with 'error sign' because accountType value was in quoutes.
-- <a href="https://github.com/Sajjon/bybit-rs/commit/0f28b987d7337113f2ed905211fba1f0149d6f50">0f28b98</a>: Fix get_account_info which failed due to missing serde fields
+- <a href="https://github.com/Sajjon/rs_bybit/commit/c3b55fdaa4284e6aa6e70ac8a212fd4181a69f6e">c3b55fd</a>: fix
+- <a href="https://github.com/Sajjon/rs_bybit/commit/57db64c4e15ac6586c1a11a1b14b229d172eee97">57db64c</a>: fix
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
