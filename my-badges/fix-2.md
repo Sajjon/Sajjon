@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Sajjon/rs_bybit/commit/c3b55fdaa4284e6aa6e70ac8a212fd4181a69f6e">c3b55fd</a>: fix
-- <a href="https://github.com/Sajjon/rs_bybit/commit/57db64c4e15ac6586c1a11a1b14b229d172eee97">57db64c</a>: fix
+- <a href="https://github.com/Sajjon/rs_bybit/commit/489ac176a7b028e2813179f15630e19d547e15e7">489ac17</a>: Fix bad merge - reintroduce Result for sign_message
+- <a href="https://github.com/Sajjon/rs_bybit/commit/324d20e4b98c47595c5285f068816e1fa423ebbf">324d20e</a>: fix merge conflict
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
