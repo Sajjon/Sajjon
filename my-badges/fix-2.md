@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Sajjon/rs_bybit/commit/489ac176a7b028e2813179f15630e19d547e15e7">489ac17</a>: Fix bad merge - reintroduce Result for sign_message
-- <a href="https://github.com/Sajjon/rs_bybit/commit/324d20e4b98c47595c5285f068816e1fa423ebbf">324d20e</a>: fix merge conflict
+- <a href="https://github.com/Sajjon/rs_bybit/commit/80269a6596a3ad7c4aafeae2945e6105b056acee">80269a6</a>: Fix ret_code have values which can have values not fitting in 16 bits. e.g. 110072
+- <a href="https://github.com/Sajjon/rs_bybit/commit/aecaf5d9bf5f36b7a0e7879d9b8f19ca2981d139">aecaf5d</a>: fix bugs with start and end time for historic endpoints. Increase precision from day level to ms (so that we can filter by hour an minute, or second)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

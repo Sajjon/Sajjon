@@ -4,9 +4,9 @@
 
 Repos:
 
-* <a href="https://github.com/Sajjon/ViewComposer">Sajjon/ViewComposer: ★29</a>
 * <a href="https://github.com/Sajjon/K1">Sajjon/K1: ★23</a>
 * <a href="https://github.com/Sajjon/Makt">Sajjon/Makt: ★13</a>
+* <a href="https://github.com/unkuseni/rs_bybit">unkuseni/rs_bybit: ★11</a>
 * <a href="https://github.com/Sajjon/Bells">Sajjon/Bells: ★9</a>
 * <a href="https://github.com/Sajjon/rad">Sajjon/rad: ★7</a>
 * <a href="https://github.com/Sajjon/Tritium">Sajjon/Tritium: ★5</a>
