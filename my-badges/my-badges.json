@@ -122,7 +122,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"tests\".",
-    "body": "My favorite commit message words are:\n\n1. tests (used 435 times)\n2. add (used 374 times)\n3. adding (used 309 times)\n4. merge (used 279 times)\n5. wip (used 275 times)",
+    "body": "My favorite commit message words are:\n\n1. tests (used 435 times)\n2. add (used 374 times)\n3. adding (used 309 times)\n4. merge (used 280 times)\n5. wip (used 275 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -171,7 +171,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/one-does-not-simply-sign/commit/30995e8c3fdc29e0bc8663ab13693402f37d43ea\">30995e8</a>\n- <a href=\"https://github.com/Sajjon/Bells/commit/bcb9324fff99265367fe7c9887b03a5c3f32226a\">bcb9324</a>\n- <a href=\"https://github.com/Sajjon/K1/commit/9166a33477a89e12986cc7d86892d2729559101d\">9166a33</a>\n- <a href=\"https://github.com/Sajjon/K1/commit/a57d0903038bf46d95964c15ee91d4edfc6364f5\">a57d090</a>\n- <a href=\"https://github.com/Sajjon/Makt/commit/a54655c9f3d95d1a07c2d0c56303a4e748f326a2\">a54655c</a>\n- <a href=\"https://github.com/Sajjon/Makt/commit/0203510654702b97ae9f22ba1e3ce4e7cdfbd8dd\">0203510</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/unkuseni/rs_bybit/commit/e03652c916a823540826fa7fb0bc18742a3ef399\">e03652c</a>\n- <a href=\"https://github.com/unkuseni/rs_bybit/commit/eec950bd640e4ff84326212951fce17c6ca4c310\">eec950b</a>\n- <a href=\"https://github.com/Sajjon/one-does-not-simply-sign/commit/30995e8c3fdc29e0bc8663ab13693402f37d43ea\">30995e8</a>\n- <a href=\"https://github.com/Sajjon/Bells/commit/bcb9324fff99265367fe7c9887b03a5c3f32226a\">bcb9324</a>\n- <a href=\"https://github.com/Sajjon/K1/commit/9166a33477a89e12986cc7d86892d2729559101d\">9166a33</a>\n- <a href=\"https://github.com/Sajjon/K1/commit/a57d0903038bf46d95964c15ee91d4edfc6364f5\">a57d090</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
