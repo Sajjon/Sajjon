@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Sajjon/rs_bybit/commit/80269a6596a3ad7c4aafeae2945e6105b056acee">80269a6</a>: Fix ret_code have values which can have values not fitting in 16 bits. e.g. 110072
-- <a href="https://github.com/Sajjon/rs_bybit/commit/aecaf5d9bf5f36b7a0e7879d9b8f19ca2981d139">aecaf5d</a>: fix bugs with start and end time for historic endpoints. Increase precision from day level to ms (so that we can filter by hour an minute, or second)
+- <a href="https://github.com/Sajjon/InvoiceLatex/commit/c180082b463e0dc7128b7898c1c40b5635b0d6f0">c180082</a>: Fix typos
+- <a href="https://github.com/Sajjon/InvoiceLatex/commit/3b40756c2e4af08c7cd5784937f201e121c0f60a">3b40756</a>: Fix github alert
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
