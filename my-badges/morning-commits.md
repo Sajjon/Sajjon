@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Sajjon/invoice_typst/commit/a993b019166e8cfbea049d0d51f6f0a9baa8b3ea">a993b01</a>
+- <a href="https://github.com/Sajjon/klirr/commit/a993b019166e8cfbea049d0d51f6f0a9baa8b3ea">a993b01</a>
 - <a href="https://github.com/Sajjon/InvoiceLatex/commit/f219987cfa3bfd0e574a88934134ce62cf3fd758">f219987</a>
 - <a href="https://github.com/unkuseni/rs_bybit/commit/e0a4e27563d7de6e908e19365f92eab238c2e286">e0a4e27</a>
 - <a href="https://github.com/unkuseni/rs_bybit/commit/dcfb333d8d20355dc8171e670426e06c33242bc1">dcfb333</a>
