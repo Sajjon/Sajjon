@@ -194,5 +194,12 @@
     "desc": "I have three public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "summer-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Summer solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/app-radix/commit/35e0c38852e59c2c6c91839ae033b9283ad56277\">35e0c38</a>",
+    "image": "https://my-badges.github.io/my-badges/summer-solstice-commits.png"
   }
 ]
