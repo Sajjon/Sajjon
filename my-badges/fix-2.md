@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Sajjon/InvoiceLatex/commit/c180082b463e0dc7128b7898c1c40b5635b0d6f0">c180082</a>: Fix typos
-- <a href="https://github.com/Sajjon/InvoiceLatex/commit/3b40756c2e4af08c7cd5784937f201e121c0f60a">3b40756</a>: Fix github alert
+- <a href="https://github.com/Sajjon/klirr/commit/859ffd33a52ac34bb82258cbb8486d381af17309">859ffd3</a>: Fix bug where header of table flipped Quanityt and Unit Price. Now opens the PDF after generation. Append  Year and Month After Service name
+- <a href="https://github.com/Sajjon/klirr/commit/a5235531deffbd9ecc2f0431062b407cafa8705a">a523553</a>: Fix example for Github
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
