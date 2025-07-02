@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Sajjon/mopro/commit/793626f32ed34dcde382f5f304c301563126bc9d">793626f</a>: chore: Fix typos (#390)
+- <a href="https://github.com/Sajjon/klirr/commit/c00ae830122eeff841bc0ad83c4c56d99f71ce3c">c00ae83</a>: chore: Release
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
