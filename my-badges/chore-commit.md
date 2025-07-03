@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Sajjon/klirr/commit/c00ae830122eeff841bc0ad83c4c56d99f71ce3c">c00ae83</a>: chore: Release
+- <a href="https://github.com/Sajjon/klirr/commit/3bc9cdfa84d393e5aa8568a5f711cd16fd3ee997">3bc9cdf</a>: chore: Release
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
