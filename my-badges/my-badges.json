@@ -115,7 +115,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"tests\".",
-    "body": "My favorite commit message words are:\n\n1. tests (used 447 times)\n2. add (used 398 times)\n3. adding (used 309 times)\n4. merge (used 281 times)\n5. wip (used 275 times)",
+    "body": "My favorite commit message words are:\n\n1. tests (used 447 times)\n2. add (used 400 times)\n3. adding (used 309 times)\n4. merge (used 281 times)\n5. wip (used 275 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/klirr/commit/859ffd33a52ac34bb82258cbb8486d381af17309\">859ffd3</a>: Fix bug where header of table flipped Quanityt and Unit Price. Now opens the PDF after generation. Append  Year and Month After Service name\n- <a href=\"https://github.com/Sajjon/klirr/commit/a5235531deffbd9ecc2f0431062b407cafa8705a\">a523553</a>: Fix example for Github",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/homebrew-klirr/commit/f8318ae3a80bff8f8d37e4b1299a5f2ec8eb0208\">f8318ae</a>: fix desc\n- <a href=\"https://github.com/Sajjon/homebrew-klirr/commit/8057e9c68282cb239382aa810748f67c5b26e6d5\">8057e9c</a>: fix formula",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {

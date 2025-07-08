@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Sajjon/klirr/commit/859ffd33a52ac34bb82258cbb8486d381af17309">859ffd3</a>: Fix bug where header of table flipped Quanityt and Unit Price. Now opens the PDF after generation. Append  Year and Month After Service name
-- <a href="https://github.com/Sajjon/klirr/commit/a5235531deffbd9ecc2f0431062b407cafa8705a">a523553</a>: Fix example for Github
+- <a href="https://github.com/Sajjon/homebrew-klirr/commit/f8318ae3a80bff8f8d37e4b1299a5f2ec8eb0208">f8318ae</a>: fix desc
+- <a href="https://github.com/Sajjon/homebrew-klirr/commit/8057e9c68282cb239382aa810748f67c5b26e6d5">8057e9c</a>: fix formula
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
