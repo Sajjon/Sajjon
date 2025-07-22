@@ -2,7 +2,7 @@
 <strong>I got more than 10 thumbs up.</strong>
 <br><br>
 
-* <a href="https://github.com/apple/swift-crypto/issues/8">37 👍</a>
+* <a href="https://github.com/apple/swift-crypto/issues/8">38 👍</a>
 * <a href="https://github.com/apple/swift-crypto/issues/8#issuecomment-991583714">19 👍</a>
 * <a href="https://github.com/microsoft/kiota/issues/4436">16 👍</a>
 * <a href="https://github.com/microsoft/TypeScript/issues/17588#issuecomment-718011414">12 👍</a>
