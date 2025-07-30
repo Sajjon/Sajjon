@@ -59,7 +59,7 @@
     "id": "thumbs-up-10",
     "tier": 1,
     "desc": "I got more than 10 thumbs up.",
-    "body": "* <a href=\"https://github.com/apple/swift-crypto/issues/8\">38 👍</a>\n* <a href=\"https://github.com/apple/swift-crypto/issues/8#issuecomment-991583714\">19 👍</a>\n* <a href=\"https://github.com/microsoft/kiota/issues/4436\">16 👍</a>\n* <a href=\"https://github.com/microsoft/TypeScript/issues/17588#issuecomment-718011414\">12 👍</a>\n* <a href=\"https://github.com/swiftlang/swift-book/pull/14\">11 👍</a>",
+    "body": "* <a href=\"https://github.com/apple/swift-crypto/issues/8\">38 👍</a>\n* <a href=\"https://github.com/apple/swift-crypto/issues/8#issuecomment-991583714\">19 👍</a>\n* <a href=\"https://github.com/microsoft/kiota/issues/4436\">17 👍</a>\n* <a href=\"https://github.com/microsoft/TypeScript/issues/17588#issuecomment-718011414\">12 👍</a>\n* <a href=\"https://github.com/swiftlang/swift-book/pull/14\">11 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"tests\".",
-    "body": "My favorite commit message words are:\n\n1. tests (used 447 times)\n2. add (used 402 times)\n3. wip (used 316 times)\n4. adding (used 309 times)\n5. merge (used 281 times)",
+    "body": "My favorite commit message words are:\n\n1. tests (used 447 times)\n2. add (used 402 times)\n3. wip (used 319 times)\n4. adding (used 309 times)\n5. merge (used 281 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
