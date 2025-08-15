@@ -164,14 +164,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/klirr/commit/4ad7a58b96a12566e7389f52717ab9256417b131\">4ad7a58</a>\n- <a href=\"https://github.com/Sajjon/klirr/commit/aeff8e4136d1fa1bcd6b61006e877bdba963ba55\">aeff8e4</a>\n- <a href=\"https://github.com/Sajjon/klirr/commit/deaa204e806aac9491e863361a0a8b6e4f80c148\">deaa204</a>\n- <a href=\"https://github.com/Sajjon/klirr/commit/3bc9cdfa84d393e5aa8568a5f711cd16fd3ee997\">3bc9cdf</a>\n- <a href=\"https://github.com/Sajjon/klirr/commit/cfef2e2001fabbda2aad0fd0c4ddac290c170c58\">cfef2e2</a>\n- <a href=\"https://github.com/Sajjon/klirr/commit/a993b019166e8cfbea049d0d51f6f0a9baa8b3ea\">a993b01</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/svar/commit/5c72ab7206f633ba6dbcd399a1b39e5a7d77322f\">5c72ab7</a>\n- <a href=\"https://github.com/Sajjon/svar/commit/e038bbe4c15e9253d5966cfa0c736b46e3cd34b9\">e038bbe</a>\n- <a href=\"https://github.com/Sajjon/klirr/commit/4ad7a58b96a12566e7389f52717ab9256417b131\">4ad7a58</a>\n- <a href=\"https://github.com/Sajjon/klirr/commit/aeff8e4136d1fa1bcd6b61006e877bdba963ba55\">aeff8e4</a>\n- <a href=\"https://github.com/Sajjon/klirr/commit/deaa204e806aac9491e863361a0a8b6e4f80c148\">deaa204</a>\n- <a href=\"https://github.com/Sajjon/klirr/commit/3bc9cdfa84d393e5aa8568a5f711cd16fd3ee997\">3bc9cdf</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/klyv/commit/847cd316051ff07e890f2821688355486d9262c3\">847cd31</a>\n- <a href=\"https://github.com/Sajjon/klyv/commit/8e025f493aa283ca09a41e850e6280ea76f33d74\">8e025f4</a>\n- <a href=\"https://github.com/Sajjon/klirr/commit/606ac6b307866dc5f035f04e3ca4b22177b23b7f\">606ac6b</a>\n- <a href=\"https://github.com/Sajjon/klirr/commit/1202bb9eb62833a957ed9ec7bd0333ef24e600d0\">1202bb9</a>\n- <a href=\"https://github.com/Sajjon/klirr/commit/21db0fdf336b9086ddf86923084c824791ba2cce\">21db0fd</a>\n- <a href=\"https://github.com/Sajjon/klirr/commit/c00ae830122eeff841bc0ad83c4c56d99f71ce3c\">c00ae83</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/svar/commit/2e1066eaf34a4c59bb4277c7243cb3aa3e7d9a2d\">2e1066e</a>\n- <a href=\"https://github.com/Sajjon/klyv/commit/847cd316051ff07e890f2821688355486d9262c3\">847cd31</a>\n- <a href=\"https://github.com/Sajjon/klyv/commit/8e025f493aa283ca09a41e850e6280ea76f33d74\">8e025f4</a>\n- <a href=\"https://github.com/Sajjon/klirr/commit/606ac6b307866dc5f035f04e3ca4b22177b23b7f\">606ac6b</a>\n- <a href=\"https://github.com/Sajjon/klirr/commit/1202bb9eb62833a957ed9ec7bd0333ef24e600d0\">1202bb9</a>\n- <a href=\"https://github.com/Sajjon/klirr/commit/21db0fdf336b9086ddf86923084c824791ba2cce\">21db0fd</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
