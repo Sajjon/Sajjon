@@ -201,5 +201,12 @@
     "desc": "I commit in the Summer solstice.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/app-radix/commit/35e0c38852e59c2c6c91839ae033b9283ad56277\">35e0c38</a>",
     "image": "https://my-badges.github.io/my-badges/summer-solstice-commits.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/Blomst/commit/aff983dd517a0ede1a5875f57c745824956d1905\">aff983d</a>\n- <a href=\"https://github.com/Sajjon/Blomst/commit/69947bc64fa5c119a21e10e4cf2bf59f126d1c0c\">69947bc</a>\n- <a href=\"https://github.com/Sajjon/Blomst/commit/e25c8af1b11ac8da341a3064e02056b594e6d87d\">e25c8af</a>\n- <a href=\"https://github.com/Sajjon/Blomst/commit/a6111df2d3735866b514d720f8df8292aa4eb7d3\">a6111df</a>\n- <a href=\"https://github.com/Sajjon/Makt/commit/e42b7d33569e69ebed725096d2cd67bfeeb840dd\">e42b7d3</a>\n- <a href=\"https://github.com/Sajjon/Makt/commit/0f9698f4dbd1e7722fa90a5907d28168aee1ab81\">0f9698f</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   }
 ]
