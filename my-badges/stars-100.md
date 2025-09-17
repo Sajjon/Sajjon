@@ -20,6 +20,7 @@ Repos:
 * <a href="https://github.com/Sajjon/CachingService">Sajjon/CachingService: ★2</a>
 * <a href="https://github.com/oskarh/SwingPlanner-android">oskarh/SwingPlanner-android: ★2</a>
 * <a href="https://github.com/Sajjon/RadBal">Sajjon/RadBal: ★2</a>
+* <a href="https://github.com/Sajjon/svar">Sajjon/svar: ★2</a>
 * <a href="https://github.com/Sajjon/MultiSpeedSlider">Sajjon/MultiSpeedSlider: ★1</a>
 * <a href="https://github.com/Sajjon/setup">Sajjon/setup: ★1</a>
 * <a href="https://github.com/Sajjon/SvenskaBIP39">Sajjon/SvenskaBIP39: ★1</a>
@@ -29,7 +30,6 @@ Repos:
 * <a href="https://github.com/Sajjon/sargon">Sajjon/sargon: ★1</a>
 * <a href="https://github.com/Sajjon/one-does-not-simply-sign">Sajjon/one-does-not-simply-sign: ★1</a>
 * <a href="https://github.com/Sajjon/InvoiceLatex">Sajjon/InvoiceLatex: ★1</a>
-* <a href="https://github.com/Sajjon/svar">Sajjon/svar: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
