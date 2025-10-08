@@ -12,6 +12,7 @@ Repos:
 * <a href="https://github.com/Sajjon/Tritium">Sajjon/Tritium: ★5</a>
 * <a href="https://github.com/Sajjon/BytePattern">Sajjon/BytePattern: ★5</a>
 * <a href="https://github.com/Sajjon/identified_vec">Sajjon/identified_vec: ★5</a>
+* <a href="https://github.com/Sajjon/lera">Sajjon/lera: ★5</a>
 * <a href="https://github.com/Sajjon/VanligaOrd">Sajjon/VanligaOrd: ★4</a>
 * <a href="https://github.com/Sajjon/TicTacToe">Sajjon/TicTacToe: ★4</a>
 * <a href="https://github.com/Sajjon/RadixWalletKit">Sajjon/RadixWalletKit: ★4</a>
@@ -30,7 +31,6 @@ Repos:
 * <a href="https://github.com/Sajjon/sargon">Sajjon/sargon: ★1</a>
 * <a href="https://github.com/Sajjon/one-does-not-simply-sign">Sajjon/one-does-not-simply-sign: ★1</a>
 * <a href="https://github.com/Sajjon/InvoiceLatex">Sajjon/InvoiceLatex: ★1</a>
-* <a href="https://github.com/Sajjon/lera">Sajjon/lera: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
