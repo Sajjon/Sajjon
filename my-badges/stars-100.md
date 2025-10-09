@@ -4,15 +4,14 @@
 
 Repos:
 
-* <a href="https://github.com/Sajjon/K1">Sajjon/K1: ★23</a>
 * <a href="https://github.com/unkuseni/rs_bybit">unkuseni/rs_bybit: ★14</a>
 * <a href="https://github.com/Sajjon/Makt">Sajjon/Makt: ★13</a>
 * <a href="https://github.com/Sajjon/Bells">Sajjon/Bells: ★9</a>
 * <a href="https://github.com/Sajjon/rad">Sajjon/rad: ★7</a>
+* <a href="https://github.com/Sajjon/lera">Sajjon/lera: ★7</a>
 * <a href="https://github.com/Sajjon/Tritium">Sajjon/Tritium: ★5</a>
 * <a href="https://github.com/Sajjon/BytePattern">Sajjon/BytePattern: ★5</a>
 * <a href="https://github.com/Sajjon/identified_vec">Sajjon/identified_vec: ★5</a>
-* <a href="https://github.com/Sajjon/lera">Sajjon/lera: ★5</a>
 * <a href="https://github.com/Sajjon/VanligaOrd">Sajjon/VanligaOrd: ★4</a>
 * <a href="https://github.com/Sajjon/TicTacToe">Sajjon/TicTacToe: ★4</a>
 * <a href="https://github.com/Sajjon/RadixWalletKit">Sajjon/RadixWalletKit: ★4</a>
