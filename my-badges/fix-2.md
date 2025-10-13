@@ -4,8 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/Sajjon/homebrew-klirr/commit/f8318ae3a80bff8f8d37e4b1299a5f2ec8eb0208">f8318ae</a>: fix desc
-- <a href="https://github.com/Sajjon/homebrew-klirr/commit/8057e9c68282cb239382aa810748f67c5b26e6d5">8057e9c</a>: fix formula
+- <a href="https://github.com/Sajjon/lera/commit/7d35cbbe9bdac46b1b5b26873471af7954cd7cc3">7d35cbb</a>: Fix demo in README
+- <a href="https://github.com/Sajjon/lera/commit/b31a558ca21d41746d7332f7491656d4a4ed5988">b31a558</a>: Fix formatting and enhance clarity in README
+
+Updated README.md to improve clarity and fix formatting issues.
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
