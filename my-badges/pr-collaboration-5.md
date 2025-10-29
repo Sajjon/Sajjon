@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/radixdlt/radixdlt-core/pull/1">#1</a>: WIP sketching timeout functionality
+- <a href="https://github.com/radixdlt/radixdlt-core/pull/10">#10</a>: Feature/java version file
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
