@@ -4,8 +4,8 @@
 
 Repos:
 
+* <a href="https://github.com/Sajjon/Makt">Sajjon/Makt: ★14</a>
 * <a href="https://github.com/unkuseni/rs_bybit">unkuseni/rs_bybit: ★14</a>
-* <a href="https://github.com/Sajjon/Makt">Sajjon/Makt: ★13</a>
 * <a href="https://github.com/Sajjon/Bells">Sajjon/Bells: ★9</a>
 * <a href="https://github.com/Sajjon/lera">Sajjon/lera: ★9</a>
 * <a href="https://github.com/Sajjon/rad">Sajjon/rad: ★7</a>
