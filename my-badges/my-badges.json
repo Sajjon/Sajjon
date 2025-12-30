@@ -215,5 +215,12 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/Sajjon/K1/pull/43\">#43</a>: Update README\n- <a href=\"https://github.com/Sajjon/K1/pull/44\">#44</a>: Upgrade libsecp256k1 to 0.6.0 (0cdc758a56360bf58a851fe91085a327ec97685a)\n- <a href=\"https://github.com/Sajjon/klirr/pull/4\">#4</a>: Data input\n- <a href=\"https://github.com/Sajjon/klirr/pull/5\">#5</a>: Add Layout option (and a test layout). \n- <a href=\"https://github.com/Sajjon/klirr/pull/9\">#9</a>: Font bundled => simpler and faster\n- <a href=\"https://github.com/Sajjon/klirr/pull/11\">#11</a>: Decimal\n- <a href=\"https://github.com/Sajjon/klirr/pull/13\">#13</a>: Let klirr email the invoice after generation with `klirr invoice --email`\n- <a href=\"https://github.com/Sajjon/klirr/pull/21\">#21</a>: Invoice cadence and granularity\n- <a href=\"https://github.com/paritytech/prdoc/pull/47\">#47</a>: Update README, mention YAML extension is required.",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/devxoul/RxViewController/issues/8\">#8</a>: Access UIBarButtonItems tap?\n- <a href=\"https://github.com/Sajjon/K1/issues/30\">#30</a>: Misc improvments",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
   }
 ]
