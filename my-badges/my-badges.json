@@ -229,5 +229,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/Interstellar/commit/f96586c1cbb32df8c66d00c418a893cb9f98638c\">f96586c</a>\n- <a href=\"https://github.com/Sajjon/Interstellar/commit/245b9f6c8d73f876c1436ff7054aebf409a70dd2\">245b9f6</a>\n- <a href=\"https://github.com/Sajjon/Interstellar/commit/9e1bdad89258cb97ae5517ea5dcb3e11b203bbd4\">9e1bdad</a>\n- <a href=\"https://github.com/Sajjon/Interstellar/commit/b72fc94a3bd91e5ac71ef4b111abd6d2bdad6661\">b72fc94</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/K1/commit/c77e6c2bd23ec019b7ecf80b567f5eccbec59887\">c77e6c2</a>\n- <a href=\"https://github.com/Sajjon/K1/commit/9faf0502322b4c7915d9d026d5fc4c9f3d261473\">9faf050</a>\n- <a href=\"https://github.com/Sajjon/EllipticCurveKit/commit/dcb68bed82aa3dbdc70e6c5a5a1029187b856767\">dcb68be</a>\n- <a href=\"https://github.com/Sajjon/EllipticCurveKit/commit/7f6e79320c3f5f9381d5d4644ddf2bc85639d7b4\">7f6e793</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-rust/commit/ec4218e9607564a94c37cf713dac0b4c42d3bcde\">ec4218e</a>\n- <a href=\"https://github.com/Sajjon/RadicalVanity/commit/60a0e8479c3b681fcfbf786d8ef073bcb38412d8\">60a0e84</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
