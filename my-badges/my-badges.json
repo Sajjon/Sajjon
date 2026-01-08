@@ -236,5 +236,19 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/K1/commit/c77e6c2bd23ec019b7ecf80b567f5eccbec59887\">c77e6c2</a>\n- <a href=\"https://github.com/Sajjon/K1/commit/9faf0502322b4c7915d9d026d5fc4c9f3d261473\">9faf050</a>\n- <a href=\"https://github.com/Sajjon/EllipticCurveKit/commit/dcb68bed82aa3dbdc70e6c5a5a1029187b856767\">dcb68be</a>\n- <a href=\"https://github.com/Sajjon/EllipticCurveKit/commit/7f6e79320c3f5f9381d5d4644ddf2bc85639d7b4\">7f6e793</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-rust/commit/ec4218e9607564a94c37cf713dac0b4c42d3bcde\">ec4218e</a>\n- <a href=\"https://github.com/Sajjon/RadicalVanity/commit/60a0e8479c3b681fcfbf786d8ef073bcb38412d8\">60a0e84</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/TicTacToe/commit/6b94152b19965cb78df4ec8c0fc97b0cdff97911\">6b94152</a>\n- <a href=\"https://github.com/Sajjon/TicTacToe/commit/9342a45b8d07496dccf850f16d6957a8636b1e27\">9342a45</a>\n- <a href=\"https://github.com/Sajjon/TicTacToe/commit/b93c12e0865eeea88f835b2bd1368b6c49a79166\">b93c12e</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/d18c267471f91e44571408fbd4a7b763325d98d1\">d18c267</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/6d890d16ecfe2fbad5ddba5ff108dfb189cc30ff\">6d890d1</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/fcd567798319629fda964c30ce663ebabbe416b7\">fcd5677</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/Swift-RTC/commit/3da45a34dac9513c272bc2d9f2279dafc1a9c4e5\">3da45a3</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]
