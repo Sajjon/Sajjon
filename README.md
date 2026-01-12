@@ -5,13 +5,7 @@ Cyon, Alexander: Husband, father, HoMM3 & Chess player, Swift & Rust lover, cryp
 ---
 
 ---
-
-Programming Language Statistics:
 ![Sajjon's top Languages](./profile/top-langs.svg)
----
-
----
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 ---
 
 <!-- my-badges start -->
