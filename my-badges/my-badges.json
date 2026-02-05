@@ -31,7 +31,7 @@
     "id": "pr-collaboration-5",
     "tier": 1,
     "desc": "I have participated in pull requests with 5 or more people",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/radixdlt/radixdlt-core/pull/10\">#10</a>: Feature/java version file",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/radixdlt/radixdlt-core/pull/1\">#1</a>: WIP sketching timeout functionality",
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"tests\".",
-    "body": "My favorite commit message words are:\n\n1. tests (used 448 times)\n2. add (used 421 times)\n3. wip (used 338 times)\n4. adding (used 310 times)\n5. merge (used 288 times)",
+    "body": "My favorite commit message words are:\n\n1. tests (used 448 times)\n2. add (used 420 times)\n3. wip (used 337 times)\n4. adding (used 310 times)\n5. merge (used 288 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
