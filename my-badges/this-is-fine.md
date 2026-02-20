@@ -14,6 +14,7 @@ Pull requests:
 - <a href="https://github.com/Sajjon/klirr/pull/21">#21</a>: Invoice cadence and granularity
 - <a href="https://github.com/Sajjon/K1/pull/46">#46</a>: Add Swift script for bumping dependency libsecp256k1
 - <a href="https://github.com/Sajjon/K1/pull/49">#49</a>: Update libsecp256k1 dependency to v0.7.1 (1a53f4961f337b4d166c25fce72…
+- <a href="https://github.com/Sajjon/klirr/pull/29">#29</a>: Better errors
 - <a href="https://github.com/paritytech/prdoc/pull/47">#47</a>: Update README, mention YAML extension is required.
 
 
