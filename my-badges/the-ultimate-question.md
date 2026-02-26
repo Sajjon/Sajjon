@@ -4,8 +4,8 @@
 
 - <a href="https://github.com/OpenZesame/Zesame/issues/42">#42</a>
 - <a href="https://github.com/radixdlt/radixdlt-swift-archive/issues/42">#42</a>
-- <a href="https://github.com/Sajjon/klirr/issues/42">#42</a>
 - <a href="https://github.com/radixdlt/radixdlt-javascript/issues/42">#42</a>
+- <a href="https://github.com/Sajjon/klirr/issues/42">#42</a>
 - <a href="https://github.com/radixdlt/radixdlt-core/issues/42">#42</a>
 
 
