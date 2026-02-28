@@ -31,6 +31,7 @@ Repos:
 * <a href="https://github.com/Sajjon/one-does-not-simply-sign">Sajjon/one-does-not-simply-sign: ★1</a>
 * <a href="https://github.com/Sajjon/InvoiceLatex">Sajjon/InvoiceLatex: ★1</a>
 * <a href="https://github.com/Sajjon/containerization">Sajjon/containerization: ★1</a>
+* <a href="https://github.com/Sajjon/mejla">Sajjon/mejla: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
