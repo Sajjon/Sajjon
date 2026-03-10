@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. add (used 433 times)
 3. wip (used 337 times)
 4. adding (used 310 times)
-5. merge (used 288 times)
+5. merge (used 289 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
