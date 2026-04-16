@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/Sajjon/polkadot-stps/commit/4ca8d2354d61fd1ffad350fa7e4f9528f6b240b7">4ca8d23</a>
-- <a href="https://github.com/Sajjon/svar/commit/5c72ab7206f633ba6dbcd399a1b39e5a7d77322f">5c72ab7</a>
-- <a href="https://github.com/Sajjon/svar/commit/e038bbe4c15e9253d5966cfa0c736b46e3cd34b9">e038bbe</a>
-- <a href="https://github.com/Sajjon/klirr/commit/4ad7a58b96a12566e7389f52717ab9256417b131">4ad7a58</a>
-- <a href="https://github.com/Sajjon/klirr/commit/aeff8e4136d1fa1bcd6b61006e877bdba963ba55">aeff8e4</a>
-- <a href="https://github.com/Sajjon/klirr/commit/deaa204e806aac9491e863361a0a8b6e4f80c148">deaa204</a>
+- <a href="https://github.com/Sajjon/SwiftIntro/commit/6b705fb736b1e494b584c021ca50106e60e8de05">6b705fb</a>
+- <a href="https://github.com/Sajjon/SwiftIntro/commit/69886d83b2d8df0b50866aa05f6a80a50bf2c3dc">69886d8</a>
+- <a href="https://github.com/Sajjon/SwiftIntro/commit/b8ec02a2996ce936647b63f0ec5f749994f4cb4d">b8ec02a</a>
+- <a href="https://github.com/Sajjon/SwiftIntro/commit/e0e34295bb6b1595bc7e6211ec1a21bf8f50a9e3">e0e3429</a>
+- <a href="https://github.com/Sajjon/SwiftIntro/commit/11610ea2bb7447418c73d0653ea0a0931e7269e7">11610ea</a>
+- <a href="https://github.com/Sajjon/SwiftIntro/commit/3ec0333537a2db6237fc12c5333fe4668947dbc5">3ec0333</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
