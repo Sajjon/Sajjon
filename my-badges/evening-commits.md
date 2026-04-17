@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/Sajjon/SwiftIntro/commit/a3a8f45b6acb1f80e58256c17b5428a197a485c8">a3a8f45</a>
-- <a href="https://github.com/Sajjon/SwiftIntro/commit/d7a48bf71767bb94b3afa1f7609210a8ab0acedb">d7a48bf</a>
-- <a href="https://github.com/Sajjon/SwiftIntro/commit/ff539f83486984811decf8a498da27d77926c4b3">ff539f8</a>
-- <a href="https://github.com/Sajjon/SwiftIntro/commit/c56be3bfa14ec8e8cc1cf10a4a23c98083e780de">c56be3b</a>
-- <a href="https://github.com/Sajjon/SwiftIntro/commit/53793e99aa955a9e8dd193a82ba2f270ee83aa06">53793e9</a>
-- <a href="https://github.com/Sajjon/SwiftIntro/commit/ee293882d1a744965b258f700cbc8d537df185a6">ee29388</a>
+- <a href="https://github.com/Sajjon/SwiftIntro/commit/9b452e7d777647fbc7aec239152ef6bcb540058c">9b452e7</a>
+- <a href="https://github.com/Sajjon/SwiftIntro/commit/60958909c865948e2a035f65bdc80593275deb8c">6095890</a>
+- <a href="https://github.com/Sajjon/SwiftIntro/commit/04c5997f97bedba8ff949600346adc0693deedb1">04c5997</a>
+- <a href="https://github.com/Sajjon/SwiftIntro/commit/69749e33484c1da2eb20be380f797f3f130475e3">69749e3</a>
+- <a href="https://github.com/Sajjon/SwiftIntro/commit/01d94937a310f0afe89005eee7fce54f4626c429">01d9493</a>
+- <a href="https://github.com/Sajjon/SwiftIntro/commit/ada5a90acffd97d33df085f56c47de1b98ef25f4">ada5a90</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

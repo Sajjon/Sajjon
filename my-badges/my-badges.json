@@ -87,7 +87,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/4471218695f9ac80f5a44ebbfc0b560d0e38849c\">4471218</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/a3a8f45b6acb1f80e58256c17b5428a197a485c8\">a3a8f45</a>\n- <a href=\"https://github.com/Sajjon/Makt/commit/c1ef2a110e35e0972412042fb25a2382abcde3e4\">c1ef2a1</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/69749e33484c1da2eb20be380f797f3f130475e3\">69749e3</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/4471218695f9ac80f5a44ebbfc0b560d0e38849c\">4471218</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/a3a8f45b6acb1f80e58256c17b5428a197a485c8\">a3a8f45</a>\n- <a href=\"https://github.com/Sajjon/Makt/commit/c1ef2a110e35e0972412042fb25a2382abcde3e4\">c1ef2a1</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
@@ -108,14 +108,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/8c413b030d17b9d14837f943765daa120f08faac\">8c413b0</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/17e64561d4e7341ac319cca004e14a74f0ad16db\">17e6456</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/5052a32ff681f4b7de8cfe2ba1191667340cc3b5\">5052a32</a>\n- <a href=\"https://github.com/Sajjon/EllipticCurveKit/commit/b2b22237e67acd5533d68e0e88e853e685713e6f\">b2b2223</a>\n- <a href=\"https://github.com/Sajjon/ViewComposer/commit/63b1a0328c7cd2305057611668df2c8a00c79ebd\">63b1a03</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/8c413b030d17b9d14837f943765daa120f08faac\">8c413b0</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/17e64561d4e7341ac319cca004e14a74f0ad16db\">17e6456</a>\n- <a href=\"https://github.com/Sajjon/radixdlt-swift-archive/commit/5052a32ff681f4b7de8cfe2ba1191667340cc3b5\">5052a32</a>\n- <a href=\"https://github.com/Sajjon/EllipticCurveKit/commit/b2b22237e67acd5533d68e0e88e853e685713e6f\">b2b2223</a>\n- <a href=\"https://github.com/Sajjon/ViewComposer/commit/63b1a0328c7cd2305057611668df2c8a00c79ebd\">63b1a03</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/9b452e7d777647fbc7aec239152ef6bcb540058c\">9b452e7</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"tests\".",
-    "body": "My favorite commit message words are:\n\n1. tests (used 459 times)\n2. add (used 435 times)\n3. wip (used 338 times)\n4. adding (used 310 times)\n5. merge (used 293 times)",
+    "body": "My favorite commit message words are:\n\n1. tests (used 460 times)\n2. add (used 452 times)\n3. wip (used 338 times)\n4. adding (used 310 times)\n5. merge (used 295 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -164,14 +164,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/6b705fb736b1e494b584c021ca50106e60e8de05\">6b705fb</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/69886d83b2d8df0b50866aa05f6a80a50bf2c3dc\">69886d8</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/b8ec02a2996ce936647b63f0ec5f749994f4cb4d\">b8ec02a</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/e0e34295bb6b1595bc7e6211ec1a21bf8f50a9e3\">e0e3429</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/11610ea2bb7447418c73d0653ea0a0931e7269e7\">11610ea</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/3ec0333537a2db6237fc12c5333fe4668947dbc5\">3ec0333</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/09e443409ce19e885068d2b70a75238114e415f6\">09e4434</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/7cfb50031d892eaa82d06f5b06b972b92cea53e1\">7cfb500</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/6b705fb736b1e494b584c021ca50106e60e8de05\">6b705fb</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/69886d83b2d8df0b50866aa05f6a80a50bf2c3dc\">69886d8</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/b8ec02a2996ce936647b63f0ec5f749994f4cb4d\">b8ec02a</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/e0e34295bb6b1595bc7e6211ec1a21bf8f50a9e3\">e0e3429</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/a3a8f45b6acb1f80e58256c17b5428a197a485c8\">a3a8f45</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/d7a48bf71767bb94b3afa1f7609210a8ab0acedb\">d7a48bf</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/ff539f83486984811decf8a498da27d77926c4b3\">ff539f8</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/c56be3bfa14ec8e8cc1cf10a4a23c98083e780de\">c56be3b</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/53793e99aa955a9e8dd193a82ba2f270ee83aa06\">53793e9</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/ee293882d1a744965b258f700cbc8d537df185a6\">ee29388</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/9b452e7d777647fbc7aec239152ef6bcb540058c\">9b452e7</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/60958909c865948e2a035f65bdc80593275deb8c\">6095890</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/04c5997f97bedba8ff949600346adc0693deedb1\">04c5997</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/69749e33484c1da2eb20be380f797f3f130475e3\">69749e3</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/01d94937a310f0afe89005eee7fce54f4626c429\">01d9493</a>\n- <a href=\"https://github.com/Sajjon/SwiftIntro/commit/ada5a90acffd97d33df085f56c47de1b98ef25f4\">ada5a90</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -206,7 +206,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/Sajjon/K1/pull/43\">#43</a>: Update README\n- <a href=\"https://github.com/Sajjon/K1/pull/44\">#44</a>: Upgrade libsecp256k1 to 0.6.0 (0cdc758a56360bf58a851fe91085a327ec97685a)\n- <a href=\"https://github.com/Sajjon/klirr/pull/4\">#4</a>: Data input\n- <a href=\"https://github.com/Sajjon/K1/pull/49\">#49</a>: Update libsecp256k1 dependency to v0.7.1 (1a53f4961f337b4d166c25fce72…\n- <a href=\"https://github.com/paritytech/prdoc/pull/47\">#47</a>: Update README, mention YAML extension is required.\n- <a href=\"https://github.com/Sajjon/klirr/pull/5\">#5</a>: Add Layout option (and a test layout). \n- <a href=\"https://github.com/Sajjon/klirr/pull/9\">#9</a>: Font bundled => simpler and faster\n- <a href=\"https://github.com/Sajjon/klirr/pull/11\">#11</a>: Decimal\n- <a href=\"https://github.com/Sajjon/klirr/pull/13\">#13</a>: Let klirr email the invoice after generation with `klirr invoice --email`\n- <a href=\"https://github.com/Sajjon/klirr/pull/21\">#21</a>: Invoice cadence and granularity\n- <a href=\"https://github.com/Sajjon/K1/pull/46\">#46</a>: Add Swift script for bumping dependency libsecp256k1\n- <a href=\"https://github.com/Sajjon/klirr/pull/29\">#29</a>: Better errors",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/Sajjon/K1/pull/43\">#43</a>: Update README\n- <a href=\"https://github.com/Sajjon/K1/pull/44\">#44</a>: Upgrade libsecp256k1 to 0.6.0 (0cdc758a56360bf58a851fe91085a327ec97685a)\n- <a href=\"https://github.com/Sajjon/klirr/pull/4\">#4</a>: Data input\n- <a href=\"https://github.com/Sajjon/K1/pull/49\">#49</a>: Update libsecp256k1 dependency to v0.7.1 (1a53f4961f337b4d166c25fce72…\n- <a href=\"https://github.com/paritytech/prdoc/pull/47\">#47</a>: Update README, mention YAML extension is required.\n- <a href=\"https://github.com/Sajjon/klirr/pull/5\">#5</a>: Add Layout option (and a test layout). \n- <a href=\"https://github.com/Sajjon/klirr/pull/9\">#9</a>: Font bundled => simpler and faster\n- <a href=\"https://github.com/Sajjon/klirr/pull/11\">#11</a>: Decimal\n- <a href=\"https://github.com/Sajjon/klirr/pull/13\">#13</a>: Let klirr email the invoice after generation with `klirr invoice --email`\n- <a href=\"https://github.com/Sajjon/klirr/pull/21\">#21</a>: Invoice cadence and granularity\n- <a href=\"https://github.com/Sajjon/K1/pull/46\">#46</a>: Add Swift script for bumping dependency libsecp256k1\n- <a href=\"https://github.com/Sajjon/klirr/pull/29\">#29</a>: Better errors\n- <a href=\"https://github.com/Sajjon/SwiftIntro/pull/8\">#8</a>: Fix build failure in GameOverVC.onRestart closure",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
