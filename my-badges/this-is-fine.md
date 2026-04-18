@@ -17,6 +17,7 @@ Pull requests:
 - <a href="https://github.com/Sajjon/K1/pull/46">#46</a>: Add Swift script for bumping dependency libsecp256k1
 - <a href="https://github.com/Sajjon/klirr/pull/29">#29</a>: Better errors
 - <a href="https://github.com/Sajjon/SwiftIntro/pull/8">#8</a>: Fix build failure in GameOverVC.onRestart closure
+- <a href="https://github.com/OpenZesame/Zhip/pull/134">#134</a>: Migrate RxSwift/RxDataSources to Combine
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
