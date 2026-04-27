@@ -18,6 +18,7 @@ Pull requests:
 - <a href="https://github.com/Sajjon/klirr/pull/29">#29</a>: Better errors
 - <a href="https://github.com/Sajjon/SwiftIntro/pull/8">#8</a>: Fix build failure in GameOverVC.onRestart closure
 - <a href="https://github.com/OpenZesame/Zhip/pull/134">#134</a>: Migrate RxSwift/RxDataSources to Combine
+- <a href="https://github.com/OpenZesame/Zhip/pull/136">#136</a>: new dev cert
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
