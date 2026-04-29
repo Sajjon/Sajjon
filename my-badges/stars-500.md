@@ -1,9 +1,17 @@
-<img src="https://my-badges.github.io/my-badges/stars-100.png" alt="I collected 100 stars." title="I collected 100 stars." width="128">
-<strong>I collected 100 stars.</strong>
+<img src="https://my-badges.github.io/my-badges/stars-500.png" alt="I collected 500 stars." title="I collected 500 stars." width="128">
+<strong>I collected 500 stars.</strong>
 <br><br>
 
 Repos:
 
+* <a href="https://github.com/Sajjon/klirr">Sajjon/klirr: ★128</a>
+* <a href="https://github.com/Sajjon/SwiftIntro">Sajjon/SwiftIntro: ★71</a>
+* <a href="https://github.com/Sajjon/EquationKit">Sajjon/EquationKit: ★48</a>
+* <a href="https://github.com/Sajjon/EllipticCurveKit">Sajjon/EllipticCurveKit: ★43</a>
+* <a href="https://github.com/Sajjon/SwiftReflection">Sajjon/SwiftReflection: ★35</a>
+* <a href="https://github.com/Sajjon/ViewComposer">Sajjon/ViewComposer: ★29</a>
+* <a href="https://github.com/Sajjon/K1">Sajjon/K1: ★25</a>
+* <a href="https://github.com/Sajjon/Makt">Sajjon/Makt: ★15</a>
 * <a href="https://github.com/unkuseni/rs_bybit">unkuseni/rs_bybit: ★15</a>
 * <a href="https://github.com/Sajjon/Zesame">Sajjon/Zesame: ★13</a>
 * <a href="https://github.com/Sajjon/lera">Sajjon/lera: ★12</a>
