@@ -11,6 +11,7 @@ Commits:
 - <a href="https://github.com/Sajjon/radixdlt-swift-archive/commit/17e64561d4e7341ac319cca004e14a74f0ad16db">17e6456</a>
 - <a href="https://github.com/Sajjon/radixdlt-swift-archive/commit/5052a32ff681f4b7de8cfe2ba1191667340cc3b5">5052a32</a>
 - <a href="https://github.com/Sajjon/EllipticCurveKit/commit/b2b22237e67acd5533d68e0e88e853e685713e6f">b2b2223</a>
+- <a href="https://github.com/Sajjon/Zesame/commit/82866ea6ee23932495ea655ca04f016c22d79b40">82866ea</a>
 - <a href="https://github.com/Sajjon/Zesame/commit/501d30fd54978926a98c4c35a287e6116925769c">501d30f</a>
 - <a href="https://github.com/Sajjon/Zesame/commit/70ea95594444e8c2b7ac6207f159c2402c3daf8e">70ea955</a>
 - <a href="https://github.com/Sajjon/Zesame/commit/9278dd061eb5a8dd9ba62c2d4b22cc2aa76b5ffa">9278dd0</a>
