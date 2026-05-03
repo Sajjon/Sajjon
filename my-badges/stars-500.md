@@ -9,6 +9,7 @@ Repos:
 * <a href="https://github.com/Sajjon/EquationKit">Sajjon/EquationKit: ★48</a>
 * <a href="https://github.com/Sajjon/EllipticCurveKit">Sajjon/EllipticCurveKit: ★43</a>
 * <a href="https://github.com/Sajjon/SwiftReflection">Sajjon/SwiftReflection: ★35</a>
+* <a href="https://github.com/Sajjon/Zhip">Sajjon/Zhip: ★35</a>
 * <a href="https://github.com/Sajjon/ViewComposer">Sajjon/ViewComposer: ★29</a>
 * <a href="https://github.com/Sajjon/K1">Sajjon/K1: ★25</a>
 * <a href="https://github.com/Sajjon/Makt">Sajjon/Makt: ★15</a>

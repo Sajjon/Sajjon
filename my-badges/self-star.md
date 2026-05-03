@@ -1,10 +1,11 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 18 my own repositories." title="I&apos;ve starred 18 my own repositories." width="128">
-<strong>I&apos;ve starred 18 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 19 my own repositories." title="I&apos;ve starred 19 my own repositories." width="128">
+<strong>I&apos;ve starred 19 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/Sajjon/SwiftIntro">Sajjon/SwiftIntro</a>
 - <a href="https://github.com/Sajjon/setup">Sajjon/setup</a>
 - <a href="https://github.com/Sajjon/ViewComposer">Sajjon/ViewComposer</a>
+- <a href="https://github.com/Sajjon/Zhip">Sajjon/Zhip</a>
 - <a href="https://github.com/Sajjon/EllipticCurveKit">Sajjon/EllipticCurveKit</a>
 - <a href="https://github.com/Sajjon/SvenskaBIP39">Sajjon/SvenskaBIP39</a>
 - <a href="https://github.com/Sajjon/Makt">Sajjon/Makt</a>
