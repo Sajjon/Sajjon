@@ -4,6 +4,8 @@
 
 Commits:
 
+- <a href="https://github.com/Sajjon/NanoViewController/commit/bab82291abb93b3488e267ae12fadfe06c2d8ecb">bab8229</a>
+- <a href="https://github.com/Sajjon/NanoViewController/commit/7d8bf9fc49bfef62708e2b0e6b9632de2a0ecd7f">7d8bf9f</a>
 - <a href="https://github.com/Sajjon/NanoViewController/commit/88c8178d64235bbf2dae78383e08fc18f5238f83">88c8178</a>
 - <a href="https://github.com/Sajjon/NanoViewController/commit/d55b220f87aaf778965cc1285d1022eaabfd2513">d55b220</a>
 - <a href="https://github.com/Sajjon/NanoViewController/commit/dcae5125f20a6c307cc530ad6176fe95559675ae">dcae512</a>
