@@ -46,9 +46,9 @@ I offer consulting services either through B2B or EOR, I specialize in SDK/middl
 <a href="my-badges/st-patricks-day.md"><img src="https://my-badges.github.io/my-badges/st-patricks-day.png" alt="I committed on St. Patrick&apos;s Day!" title="I committed on St. Patrick&apos;s Day!" width="64"></a>
 <a href="my-badges/alien-day.md"><img src="https://my-badges.github.io/my-badges/alien-day.png" alt="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" title="I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!" width="64"></a>
 <a href="my-badges/science-fiction-day.md"><img src="https://my-badges.github.io/my-badges/science-fiction-day.png" alt="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" title="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" width="64"></a>
-<a href="my-badges/public-keys-4.md"><img src="https://my-badges.github.io/my-badges/public-keys-4.png" alt="I have four public keys" title="I have four public keys" width="64"></a>
 <a href="my-badges/stars-500.md"><img src="https://my-badges.github.io/my-badges/stars-500.png" alt="I collected 500 stars." title="I collected 500 stars." width="64"></a>
 <a href="my-badges/fix-4.md"><img src="https://my-badges.github.io/my-badges/fix-4.png" alt="I did 4 sequential fixes." title="I did 4 sequential fixes." width="64"></a>
 <a href="my-badges/fix-6+.md"><img src="https://my-badges.github.io/my-badges/fix-6+.png" alt="I did 8 sequential fixes." title="I did 8 sequential fixes." width="64"></a>
 <a href="my-badges/may-the-4th.md"><img src="https://my-badges.github.io/my-badges/may-the-4th.png" alt="May the 4th be with you!" title="May the 4th be with you!" width="64"></a>
+<a href="my-badges/public-keys-3.md"><img src="https://my-badges.github.io/my-badges/public-keys-3.png" alt="I have three public keys" title="I have three public keys" width="64"></a>
 <!-- my-badges end -->
