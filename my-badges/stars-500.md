@@ -12,8 +12,8 @@ Repos:
 * <a href="https://github.com/Sajjon/Zhip">Sajjon/Zhip: ★34</a>
 * <a href="https://github.com/Sajjon/ViewComposer">Sajjon/ViewComposer: ★29</a>
 * <a href="https://github.com/Sajjon/K1">Sajjon/K1: ★25</a>
+* <a href="https://github.com/unkuseni/rs_bybit">unkuseni/rs_bybit: ★16</a>
 * <a href="https://github.com/Sajjon/Makt">Sajjon/Makt: ★15</a>
-* <a href="https://github.com/unkuseni/rs_bybit">unkuseni/rs_bybit: ★15</a>
 * <a href="https://github.com/Sajjon/Zesame">Sajjon/Zesame: ★13</a>
 * <a href="https://github.com/Sajjon/lera">Sajjon/lera: ★12</a>
 * <a href="https://github.com/Sajjon/Bells">Sajjon/Bells: ★9</a>
