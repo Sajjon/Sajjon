@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/Sajjon/klirr">Sajjon/klirr: ★131</a>
-* <a href="https://github.com/Sajjon/SwiftIntro">Sajjon/SwiftIntro: ★71</a>
+* <a href="https://github.com/Sajjon/klirr">Sajjon/klirr: ★132</a>
+* <a href="https://github.com/Sajjon/SwiftIntro">Sajjon/SwiftIntro: ★70</a>
 * <a href="https://github.com/Sajjon/EquationKit">Sajjon/EquationKit: ★48</a>
 * <a href="https://github.com/Sajjon/EllipticCurveKit">Sajjon/EllipticCurveKit: ★43</a>
 * <a href="https://github.com/Sajjon/SwiftReflection">Sajjon/SwiftReflection: ★35</a>
