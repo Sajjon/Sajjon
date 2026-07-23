@@ -2,11 +2,6 @@
 <strong>I liked my own comment so much that I upvoted it.</strong>
 <br><br>
 
-* <a href="https://github.com/LedgerHQ/app-zilliqa/issues/11">👍</a>
-* <a href="https://github.com/LedgerHQ/app-zilliqa/issues/11">🎉</a>
-* <a href="https://github.com/LedgerHQ/app-zilliqa/issues/11">🚀</a>
-* <a href="https://github.com/LedgerHQ/app-zilliqa/issues/11">👀</a>
-* <a href="https://github.com/LedgerHQ/app-zilliqa/issues/11">❤️</a>
 * <a href="https://github.com/apple/swift-crypto/issues/8">👍</a>
 * <a href="https://github.com/apple/swift-crypto/issues/8">❤️</a>
 * <a href="https://github.com/apple/swift-crypto/issues/8#issuecomment-991583714">👍</a>
