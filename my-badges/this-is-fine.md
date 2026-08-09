@@ -6,7 +6,6 @@ Pull requests:
 
 - <a href="https://github.com/Sajjon/klirr/pull/4">#4</a>: Data input
 - <a href="https://github.com/Sajjon/K1/pull/49">#49</a>: Update libsecp256k1 dependency to v0.7.1 (1a53f4961f337b4d166c25fce72…
-- <a href="https://github.com/paritytech/prdoc/pull/47">#47</a>: Update README, mention YAML extension is required.
 - <a href="https://github.com/Sajjon/klirr/pull/5">#5</a>: Add Layout option (and a test layout). 
 - <a href="https://github.com/Sajjon/klirr/pull/9">#9</a>: Font bundled => simpler and faster
 - <a href="https://github.com/Sajjon/klirr/pull/11">#11</a>: Decimal
