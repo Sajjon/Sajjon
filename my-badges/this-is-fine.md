@@ -5,7 +5,6 @@
 Pull requests:
 
 - <a href="https://github.com/Sajjon/K1/pull/49">#49</a>: Update libsecp256k1 dependency to v0.7.1 (1a53f4961f337b4d166c25fce72…
-- <a href="https://github.com/Sajjon/klirr/pull/9">#9</a>: Font bundled => simpler and faster
 - <a href="https://github.com/Sajjon/klirr/pull/11">#11</a>: Decimal
 - <a href="https://github.com/Sajjon/klirr/pull/13">#13</a>: Let klirr email the invoice after generation with `klirr invoice --email`
 - <a href="https://github.com/Sajjon/klirr/pull/21">#21</a>: Invoice cadence and granularity
@@ -14,6 +13,7 @@ Pull requests:
 - <a href="https://github.com/Sajjon/SwiftIntro/pull/8">#8</a>: Fix build failure in GameOverVC.onRestart closure
 - <a href="https://github.com/Sajjon/Zhip/pull/134">#134</a>: Migrate RxSwift/RxDataSources to Combine
 - <a href="https://github.com/Sajjon/Zhip/pull/136">#136</a>: new dev cert
+- <a href="https://github.com/paritytech/polkadot-sdk/pull/8939">#8939</a>: Always send full parent header, not only hash, part of collation response
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
