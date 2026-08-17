@@ -13,7 +13,6 @@ Pull requests:
 - <a href="https://github.com/Sajjon/SwiftIntro/pull/8">#8</a>: Fix build failure in GameOverVC.onRestart closure
 - <a href="https://github.com/Sajjon/Zhip/pull/134">#134</a>: Migrate RxSwift/RxDataSources to Combine
 - <a href="https://github.com/Sajjon/Zhip/pull/136">#136</a>: new dev cert
-- <a href="https://github.com/paritytech/polkadot-sdk/pull/8939">#8939</a>: Always send full parent header, not only hash, part of collation response
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
