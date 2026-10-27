@@ -5,11 +5,11 @@ Cyon, Alexander: Husband, father, HoMM3 & Chess player, Swift & Rust lover, cryp
 ---
 
 
-# My daugther Stella
+# My daughter Stella
 
 ![alex_and_stella_small](https://github.com/Sajjon/Sajjon/assets/864410/f633b230-abbf-478a-9069-d6c67e739ce9)
 
-I'm teaching my daugher Stella born 2020 to code. I hope she would like to develop a game togheter with me some day.
+I'm teaching my daughter Stella born 2020 to code. I hope she would like to develop a game together with me some day.
 
 ---
 
