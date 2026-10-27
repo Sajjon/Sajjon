@@ -1,32 +1,37 @@
-Cyon, Alexander: Husband, father, HoMM3 & Chess player, Rust & Swift lover, cryptography enthusiast and OSS author.
+# Alexander Cyon — Principal Engineer · Rust · Swift · Cryptography
 
-I offer consulting services either through B2B or EOR, I specialize in SDK/middleware for cryptographic applications such as wallets, DLT (blockchain), encryption, [Mozilla UniFFI](https://github.com/mozilla/uniffi-rs). I am also an expert at iOS app development. If are interested in my services you can contact me at: alex [at] cyonconsulting [dot] com
+15+ years shipping production software: **Rust SDKs and core protocols, applied cryptography, crypto wallets, and iOS apps**. Based in Stockholm, Sweden, open to remote.
+
+**Open to full-time roles.** I prefer B2B invoicing through my company, Alexander Cyon Consulting AB, but I'm open to EOR.
+
+📫 alex [at] cyonconsulting [dot] com · [LinkedIn](https://www.linkedin.com/in/alexcyon/)
+
+## Experience highlights
+
+- **Spotify** (2026–present): Principal iOS Engineer on a consumer-facing feature team, working in one of the world's largest iOS codebases (Swift, UIKit, Bazel). I do much of my day-to-day delivery with AI coding agents (Claude Code, OpenAI Codex).
+- **Parity Technologies / Polkadot** (2025): Rust core-protocol work on [polkadot-sdk](https://github.com/paritytech/polkadot-sdk/pulls?q=is%3Amerged+is%3Apr+author%3Asajjon) covering consensus, runtime APIs and P2P networking.
+- **Radix DLT** (2019–2025): Principal Cryptography & Middleware Engineer. I led and mentored 10 engineers and merged 500 PRs across 18 public repositories.
+  - Authored [Sargon](https://github.com/radixdlt/sargon), a Rust SDK with UniFFI bindings shared by the iOS and Android wallets: over 90% code reuse and 99% test coverage.
+  - Designed Radix Connect, an end-to-end encrypted protocol between the browser and the wallet.
+  - Designed the multi-factor authentication and threshold-signature system.
+  - Built the Ledger hardware-wallet apps in C and Rust.
+- **Zilliqa** (2018–2019): built [Zhip](https://github.com/Sajjon/Zhip), the first iOS wallet for Zilliqa, on my own Schnorr and ECDSA implementation over secp256k1. I was the first recipient of a Zilliqa ecosystem grant.
+- **Earlier** (2010–2018): iOS lead, architect and developer for PayPal (iZettle), BookBeat (as founding mobile developer), Avanza Bank, Aftonbladet, Nordic Choice Hotels, Ericsson and Samsung.
+
+## Open source
+
+**540+ merged pull requests** in 32 public repositories I don't own, including contributions to [Apple swift-crypto](https://github.com/apple/swift-crypto/pulls?q=is%3Apr+is%3Amerged+author%3Asajjon) and [Mozilla UniFFI](https://github.com/mozilla/uniffi-rs/pulls?q=is%3Apr+is%3Amerged+author%3ASajjon).
+
+- [**klirr**](https://github.com/Sajjon/klirr) (Rust): zero-maintenance invoicing CLI, my most-starred project
+- [**K1**](https://github.com/Sajjon/K1) (Swift): safe wrapper around bitcoin-core's libsecp256k1 (ECDSA, Schnorr/BIP-340, ECDH) with a CryptoKit-style API
+- [**EllipticCurveKit**](https://github.com/Sajjon/EllipticCurveKit) and [**EquationKit**](https://github.com/Sajjon/EquationKit) (Swift): elliptic curve cryptography from scratch, built on symbolic algebra
+- [**lera**](https://github.com/Sajjon/lera) (Rust): write SwiftUI and Jetpack Compose ViewModels once, in Rust via UniFFI
+- [**Makt**](https://github.com/Sajjon/Makt) (Swift): reverse-engineered the binary file formats of Heroes of Might and Magic III
+
+**Skills:** Rust (Tokio, Axum, SQLx, UniFFI) · Swift (SwiftUI, UIKit, TCA) · Kotlin · TypeScript · Python · C · secp256k1 · Schnorr · ECDH · BLS12-381 · threshold signatures · MFA · blockchain/DLT · Ledger hardware wallets · CI/CD · AI-assisted development
 
 ---
 ![Stats](./profile/stats.svg)
 ---
-
-
-# My daughter Stella
-
-![alex_and_stella_small](https://github.com/Sajjon/Sajjon/assets/864410/f633b230-abbf-478a-9069-d6c67e739ce9)
-
-I'm teaching my daughter Stella born 2020 to code. I hope she would like to develop a game together with me some day.
-
----
 ![Sajjon's top Languages](./profile/top-langs.svg)
 ---
-
-<!-- my-badges start -->
-<a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
-<a href="my-badges/github-anniversary-5.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-5.png" alt="I joined GitHub 5 years ago." title="I joined GitHub 5 years ago." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
-<a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
-<a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
-<a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
-<a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/thumbs-up-10.md"><img src="https://my-badges.github.io/my-badges/thumbs-up-10.png" alt="I got more than 10 thumbs up." title="I got more than 10 thumbs up." width="64"></a>
-<a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
-<a href="my-badges/public-keys-3.md"><img src="https://my-badges.github.io/my-badges/public-keys-3.png" alt="I have three public keys" title="I have three public keys" width="64"></a>
-<a href="my-badges/github-anniversary-15.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-15.png" alt="I joined GitHub 15 years ago." title="I joined GitHub 15 years ago." width="64"></a>
-<!-- my-badges end -->
