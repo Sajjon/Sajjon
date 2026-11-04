@@ -11,10 +11,10 @@
 - **Spotify** (2026–present): Principal iOS Engineer on a consumer-facing feature team, working in one of the world's largest iOS codebases (Swift, UIKit, Bazel). I do much of my day-to-day delivery with AI coding agents (Claude Code, OpenAI Codex).
 - **Parity Technologies / Polkadot** (2025): Rust core-protocol work on [polkadot-sdk](https://github.com/paritytech/polkadot-sdk/pulls?q=is%3Amerged+is%3Apr+author%3Asajjon) covering consensus, runtime APIs and P2P networking.
 - **Radix DLT** (2019–2025): Principal Cryptography & Middleware Engineer. I led and mentored 10 engineers and merged 500 PRs across 18 public repositories.
-  - Authored [Sargon](https://github.com/radixdlt/sargon), a Rust SDK with UniFFI bindings shared by the iOS and Android wallets: over 90% code reuse and 99% test coverage.
-  - Designed Radix Connect, an end-to-end encrypted protocol between the browser and the wallet.
+  - Authored [Sargon](https://github.com/radixdlt/sargon), a Rust SDK with UniFFI bindings shared by the [iOS](https://github.com/radixdlt/babylon-wallet-ios) and [Android](https://github.com/radixdlt/babylon-wallet-android) wallets: over 90% code reuse and 99% test coverage.
+  - Designed [Radix Connect](https://www.radixdlt.com/articles-learn/what-is-radix-connect), an end-to-end encrypted protocol between the browser and the wallet.
   - Designed the multi-factor authentication and threshold-signature system.
-  - Built the Ledger hardware-wallet apps in C and Rust.
+  - Built the Ledger hardware-wallet apps in [C](https://github.com/radixdlt/radixdlt-ledger-app) and [Rust](https://github.com/radixdlt/babylon-ledger-app).
 - **Zilliqa** (2018–2019): built [Zhip](https://github.com/Sajjon/Zhip), the first iOS wallet for Zilliqa, on my own Schnorr and ECDSA implementation over secp256k1. I was the first recipient of a Zilliqa ecosystem grant.
 - **Earlier** (2010–2018): iOS lead, architect and developer for PayPal (iZettle), BookBeat (as founding mobile developer), Avanza Bank, Aftonbladet, Nordic Choice Hotels, Ericsson and Samsung.
 
