@@ -1,6 +1,6 @@
-# Alexander Cyon — Principal Engineer · Rust · Swift · Cryptography
+# Alex Cyon — Principal Engineer · Rust · Swift · iOS · Cryptography
 
-15+ years shipping production software: **Rust SDKs and core protocols, applied cryptography, crypto wallets, and iOS apps**. Based in Stockholm, Sweden, open to remote.
+17 years shipping production software: **Rust SDKs and core protocols, applied cryptography, crypto wallets, and iOS apps**. Based in Stockholm, Sweden, open to remote.
 
 **Open to full-time roles.** I prefer B2B invoicing through my company, Alexander Cyon Consulting AB, but I'm open to EOR.
 
